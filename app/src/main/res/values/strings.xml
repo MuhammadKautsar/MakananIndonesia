@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Makanan Indonesia</string>
+    <string name="foods_name">Nama Makanan</string>
+    <string name="detail">Detail</string>
+    <string name="about">About</string>
+    <string name="email">muhamadkausar8@gmail.com</string>
+    <string name="name">Muhammad Kautsar</string>
+    <string name="share">Share</string>
+    <string name="image_splashscreen">Image_Splashscreen</string>
+</resources>
